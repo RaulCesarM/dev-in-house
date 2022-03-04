@@ -2,6 +2,9 @@ body {
   background-color: rgb(207, 207, 57);
 }
 
+
+
+
 p {
   font-size: 14 px;
 }
@@ -31,10 +34,30 @@ hr {
   color: black;
 }
 
-#menu {
-  position: fixed;
-  right: 0;
-  top: 50%;
-  width: 8em;
-  margin-top: -2.5em;
+
+
+
+
+
+#menu-h{
+    background-color: rgb(230, 241, 20);
 }
+
+#menu-h ul {
+    max-width: 800px;  
+   
+}
+
+#menu-h ul li {
+    display: inline;
+}
+
+#menu-h ul li a {
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    display: inline-block;
+ 
+    
+}
+
+
